@@ -1,5 +1,13 @@
-h1 {
+head{
   color: blue;
+  text-align: left;
+  line-height: 50px;
+}
+h1 {
+  color: rgb(96, 96, 248);
   text-align: center;
-  font-style: oblique
+  font-weight: bolder;
+}
+body {
+  background-color: aqua;
 }
