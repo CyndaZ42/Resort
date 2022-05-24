@@ -1,5 +1,12 @@
 h1 {
-  color: blue;
+  color: rgb(255, 216, 220);
   text-align: center;
   font-style: oblique
+}
+h2{
+  background-color: salmon;
+  color: rgb(255, 194, 199);
+}
+body{
+  background-color: crimson;
 }
